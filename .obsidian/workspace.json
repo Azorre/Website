@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1debdef5c28b32db",
+    "type": "split",
+    "children": [
+      {
+        "id": "40fec3b59d5e00bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca6eb9edf8bcc2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/minor/1930-01-01-battleship.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1930-01-01-battleship"
+            }
+          },
+          {
+            "id": "88c645aa1703e539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/minor/1933-01-01-eidrobot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1933-01-01-eidrobot"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31ec7807167536f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a20abacbd526e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7554d8beed6a98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "901e447a8d012b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0401dee4a7c7f08a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b509c15fed8c0251",
+    "type": "split",
+    "children": [
+      {
+        "id": "569737b49fc54334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d34abfeec342685",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2000-01-01-mechatronics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2000-01-01-mechatronics"
+            }
+          },
+          {
+            "id": "80009d886a4887f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2000-01-01-mechatronics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2000-01-01-mechatronics"
+            }
+          },
+          {
+            "id": "2843b5c613fb27b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a446f5472f7edc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2000-01-01-mechatronics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2000-01-01-mechatronics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88c645aa1703e539",
+  "lastOpenFiles": [
+    "_posts/minor/1934-01-01-grabber.md",
+    "_posts/minor/1933-01-01-eidrobot.md",
+    "README.md",
+    "images/misc/chinatown1.jpg",
+    "images/misc",
+    "images/minor/cane/cane1.mp4",
+    "images/minor/cane/cane1.gif",
+    "images/minor/cane",
+    "images/minor",
+    "images/mechatronics/wheel2.jpeg",
+    "images/mechatronics/wheel2.HEIC",
+    "images/mechatronics/wheel1.jpeg",
+    "images/mechatronics/wheel1.HEIC",
+    "images/mechatronics/robot.jpeg",
+    "images/mechatronics/robot.HEIC",
+    "images/mechatronics/mech1.jpg",
+    "images/mechatronics/battle.MOV",
+    "images/mechatronics/amr2.png",
+    "images/mechatronics/amr1.png",
+    "images/mechatronics/IMG_5034.MOV",
+    "images/mechatronics",
+    "_posts/misc/1974-01-01-printing.md",
+    "_posts/misc/1973-01-01-rose.md",
+    "_posts/misc/1972-01-01-coaster.md",
+    "_posts/misc/1971-01-01-skateboard.md",
+    "assets/images/misc/skate/wave1.jpg",
+    "assets/images/misc/skate/skatewall1.jpg",
+    "_posts/major/1900-01-01-motorsports.md",
+    "_posts/minor/1931-01-01-torsionrig.md",
+    "_posts/minor/1932-01-01-pickupcfd.md",
+    "_posts/misc/1973-01-01-random.md",
+    "_posts/misc/1972-01-01-skateboard.md",
+    "_posts/misc/1971-01-01-guitar.md",
+    "_posts/misc/1970-01-01-chinatown.md",
+    "_posts/major/1901-01-01-umbrella.md",
+    "_posts/major/1901-01-01-exascale.md",
+    "_posts/major/1901-01-01-recoop.md",
+    "_posts/major/1901-01-01-bonkuka.md",
+    "_posts/major/1901-01-01-aace.md",
+    "_posts/major/1901-01-01-pcbomatic.md",
+    "_posts/minor/1929-01-01-tunedmass.md",
+    "_posts/major/2000-01-01-battleship 1 1.md",
+    "_posts/minor/1928-01-01-mechatronics.md",
+    "_posts/minor/1930-01-01-battleship.md",
+    "_posts/major/2000-01-01-battleship 1 1 3.md",
+    "_posts/major/2000-01-01-battleship 1 1 2.md"
+  ]
+}

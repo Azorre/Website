@@ -1,0 +1,20 @@
+---
+title: PCB-O-Matic
+date: 1901-01-01
+metadate: hide
+categories:
+  - Design
+  - Programming
+  - Fabrication
+  - Machining
+image: /assets/images/mechatronics/mech1.jpeg
+---
+I was working over the summer helping develop an experimental robotics course centered around using a 6 axis robotic arm. In the process of testing it, I made a video of the arm 'dancing' to Kashmir by Led Zeppelin. It got me thinking about using the robot itself to make the music...
+
+
+We ended up doing a final performance with two songs, the first being a loose improvisation over a computer generated groove, broken up by occasional drum fills. The second song was an original song by my partner which we created a drum track to match.
+
+
+
+
+I ended up creating a custom compiler in Python for creating the drumming patterns and fills, along with a custom end affecter that mimicked the looseness of a human hand. I also created an actuator for the kick drum. 
