@@ -1,15 +1,16 @@
 ---
-title:  "Cooper Union Motorsports FSAE"
+title: Cooper Union Motorsports FSAE
 date: 1900-01-01
-metadate: "hide"
-categories: [Fabrication, Design]
-image: "/assets/images/stellar.jpg"
-# visit: "https://crmrkt.com/jVMvBb"
+metadate: hide
+categories:
+  - Fabrication
+  - Design
+image: /assets/images/major/motorsports/team1.jpg
 ---
-I joined my school's electric racecar team as soon as I joined college. I became aerodynamics and frame lead, and eventually Chief Mechanical Engineer for the 25 person team. After two long years, we finally took the racecar to Michigan to race against other teams. I can't say it went well, but it was a lot of work regardless.
+I joined my school's electric racecar team as soon as I joined college. I became aerodynamics and frame lead, and eventually Chief Mechanical Engineer for the 25 person team. After two long years, we finally took the racecar to Michigan to race against other teams. I wish I could say it went well, but instead I'll say I learned a lot from my time with the team.
 
 # Chief Engineer things
-
+![The team!](/assets/images/major/motorsports/team2.jpg "The team!")
 
 
 # Aerodynamics
