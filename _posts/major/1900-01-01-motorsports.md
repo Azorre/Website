@@ -5,7 +5,7 @@ metadate: hide
 categories:
   - Fabrication
   - Design
-image: /assets/images/major/motorsports/team1.JPG
+image: /assets/images/major/motorsports/team1.png
 ---
 I joined my school's electric racecar team as soon as I joined college. I became aerodynamics and frame lead, and eventually Chief Mechanical Engineer for the 25 person team. After two long years, we finally took the racecar to Michigan to race against other teams. I wish I could say it went well, but instead I'll say I learned a lot from my time with the team.
 
